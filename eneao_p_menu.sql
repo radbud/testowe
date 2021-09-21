@@ -9,7 +9,7 @@ DECLARE
   vn_id_param_new              NUMBER;
   vn_id_def                    NUMBER;
   encrypted_json_blob_value    BLOB;
-  
+-- komentarz na main  
 BEGIN
 
   encrypted_json_blob_value:= EMPTY_BLOB();
