@@ -1,4 +1,4 @@
---- komentarz
+--- komentarz !!!
 DECLARE
 
   vn_id_pn                     NUMBER;
