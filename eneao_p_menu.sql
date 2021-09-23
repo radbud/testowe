@@ -8,7 +8,7 @@ DECLARE
   exists_JP_KONF_WART_id_param NUMBER;
   vn_id_param_new              NUMBER;
   vn_id_def                    NUMBER;
-  encrypted_json_blob_value    CHAR;
+  encrypted_json_blob_value_FEATURE    CHAR;
 -- komentarz na main  
 BEGIN
 
