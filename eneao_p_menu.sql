@@ -1,7 +1,7 @@
 --- komentarz !!! third-branch
 DECLARE
 
-  vn_id_pn                     VARCHAR;
+  vn_id_pn                     CHAR;
   vn_id_param_def              NUMBER;
   vn_id_param_wart             NUMBER;
   exists_JP_KONF_DEF_id_param  NUMBER;
